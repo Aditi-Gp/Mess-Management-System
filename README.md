@@ -1,8 +1,18 @@
 # Mess-Management-System
 
 Undergraduate Project for Database Management Based on MySQL, PHP and CSS
-
-Residential Student Mess Management System Website
+A website for mess management that carries out the following features! 🎉
+- Login & Logout
+- View Supply Details
+- Update Supply Details
+- Give Feedback
+- View Feedback
+- View menu
+- View daily menu
+- Update menu
+- View wastage details
+- View employee details
+- Update employee details
 
 ## Project Team
 * CS22B1006 LAKSHITHA
