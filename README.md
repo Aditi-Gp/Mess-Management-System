@@ -1,6 +1,6 @@
 # Mess-Management-System
 
-Undergraduate Project for Database Management Based on MySQL, PHP and CSS.
+Undergraduate Project for Database Management Based on MySQL, PHP and CSS.<br>
 A website for mess management that carries out the following features! 🎉
 - Login & Logout
 - View Supply Details
