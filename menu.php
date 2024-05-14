@@ -19,4 +19,6 @@
                 </ul>     
             </div>        
         </div>      
-       <!-- Menu Section Ends -->
+    </body>
+
+</html>
